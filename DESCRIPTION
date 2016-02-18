@@ -1,0 +1,15 @@
+Package: NFPdata
+Type: Package
+Version: 0.99.9
+Date: 2016-02-18
+Title: Gene semantic similarity data for the network fingerprint in R
+Description: This package is meant to serve as a data collection for gene semantic similarity data. The data found here can be used with the NFP R package to calculate the network fingerprint of biological networks.
+Author: Yang Cao, Fei Li, Haochen He
+Maintainer: Yang Cao <yiluheihei@gmail.com>
+URL: https://github.com/yiluheihei/NFPdata
+Depends:
+    R (>= 3.2)
+Suggests:
+    NFP
+LazyData: yes
+License: GPL-2
